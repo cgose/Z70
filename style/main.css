@@ -18,6 +18,14 @@ html,body {
     text-align: center;
     vertical-align: middle;
 }
+.header-silver {
+    color: black;
+    text-shadow: 
+        -1px -1px 0 #fff,
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        1px 1px 0 #fff;
+}
 .text-vcenter h1 {
     font-size: 4.5em;
     font-weight: 700;
@@ -27,7 +35,7 @@ html,body {
 
 /* additional sections */
 #home {
-    background: url(../images/home.jpg) no-repeat center center fixed;
+    background: url(../images/women-bench-press-md.jpg) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -57,7 +65,7 @@ html,body {
 }
 
 #information {
-    background: url(../images/estate.jpg) no-repeat center center fixed;
+    background: url(../images/dead-lift-md.jpg) no-repeat center center fixed;
     display: table;
     height: 800px;
     position: relative;
